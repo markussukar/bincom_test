@@ -1,1 +1,0 @@
-# bincom_test
